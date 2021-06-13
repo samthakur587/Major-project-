@@ -21,7 +21,7 @@ forcasting using fbprophet :-
 
 India : 
 
-![image](https://user-images.githubusercontent.com/83540902/121818686-4d647a00-cca6-11eb-995e-2ab73900e340.png)
+![image](https://user-images.githubusercontent.com/83540902/121818776-d5e31a80-cca6-11eb-92c8-60281832e1dd.png)
 
 USA:
 
