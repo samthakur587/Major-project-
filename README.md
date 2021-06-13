@@ -1,4 +1,6 @@
 # Major-project-
+Covid - 19 analysis and Data visualization.
+
 Usa covid tablau part -
 
 https://public.tableau.com/app/profile/samunder.singh/viz/Book1_16227136308360/Story1
